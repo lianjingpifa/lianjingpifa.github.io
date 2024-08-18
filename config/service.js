@@ -1,1 +1,0 @@
-window.baseURL = "https://lianjing.cloudns.biz";
