@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0b2d48"],{"267e":function(n,c,t){"use strict";t.d(c,"a",(function(){return u})),t.d(c,"c",(function(){return o})),t.d(c,"b",(function(){return d}));const u={1:"草稿",2:"已打印",99:"已删除"},o={1:"未注册",2:"待审核",3:"已验证",99:"已删除"},d={1:"超管",2:"店长",3:"店员",9:"客户",99:"游客"}}}]);
